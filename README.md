@@ -12,7 +12,9 @@
 | OS Disk          | XRayDisk 120GB SSD                     |
 | RAM              | 16GB 2x8GB Asgard Loki 3200MHz         |
 | GPU              | Radeon RX 5500 XT                      |
-| Network/BT card  | Intel WiFi 6 AX200                    |
+| Network/BT card  | Intel WiFi 6 AX200                     |
+
+[big_sur_ryzentosh](https://i.postimg.cc/wTMSL5rS/big-sur-ryzentosh.png)(https://postimg.cc/svF6RWsc)
 
 ## Patches, Drivers & Kexts
 
