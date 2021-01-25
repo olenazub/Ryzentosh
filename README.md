@@ -3,8 +3,8 @@
 **MacOS version**:  11.1
 **OpenCore version**: 0.6.5
 
-## If you are going to use this EFI, please change the SMBIOS data. 
-## I have no responsibility for any problems that may occur with your setup.
+* If you are going to use this EFI, please change the SMBIOS data. 
+* I have no responsibility for any problems that may occur with your setup.
 
 ## Specification
 
