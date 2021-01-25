@@ -1,4 +1,4 @@
-# AMD Ryzen Hackintosh - In construction...
+# AMD Ryzen Hackintosh
 
 **MacOS version**:  11.1
 **OpenCore version**: 0.6.5
@@ -8,10 +8,11 @@
 | Component        | Model                                  |
 | ---------------- | -------------------------------------- |
 | CPU              | AMD Ryzen 5 1600AF                     |
-| MotherBoard      | MSI Pro VDH Max                        |
+| MotherBoard      | MSI B450M Pro-VDH Max                  |
 | OS Disk          | XRayDisk 120GB SSD                     |
 | RAM              | 16GB 2x8GB Asgard Loki 3200MHz         |
 | GPU              | Radeon RX 5500 XT                      |
+| Network/BT card  | Intel WiFi 6 AX200                    |
 
 ## Patches, Drivers & Kexts
 
@@ -22,13 +23,27 @@
 * [AppleALC](https://github.com/acidanthera/AppleALC)
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
+* [Intel WiFI/BT](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#wifi-and-bluetooth)
 
 
-## Working
+## What works?
 
-* iCloud
-* Bluetooth
-* Ethernet
+* Almost everything...
+* Hardware acceleration - CPU/GPU
+* Audio from external DisplayPort
+* Audio from back panel
+* WIFI/BT ~Thanks to OpenIntelWireless
+* AirPlay
+* Handoff 
+* Sleep/wake
+
+## Currently known problems and solutions:
+
+* Keyboard Hot Keys +/- volume over DisplayPort doesn't work
+* DRM doesn't work
+* Send files with Airdrop doesn't work either
+* Mic from back panel
+* Audio/Mic from front panel
 
 ## Credits and links
 
