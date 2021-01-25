@@ -36,7 +36,7 @@
 * Almost everything...
 * Hardware acceleration - CPU/GPU
 * Audio from external DisplayPort
-* Audio from back panel
+* Audio from front/back panel
 * WIFI/BT ~Thanks to OpenIntelWireless
 * AirPlay
 * Handoff 
@@ -47,8 +47,7 @@
 * Keyboard Hot Keys +/- volume over DisplayPort doesn't work
 * DRM doesn't work
 * Send files with Airdrop doesn't work either
-* Mic from back panel
-* Audio/Mic from front panel
+* Mic from front/back panel
 
 ## Credits and links
 
