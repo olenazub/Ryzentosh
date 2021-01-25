@@ -14,7 +14,7 @@
 | GPU              | Radeon RX 5500 XT                      |
 | Network/BT card  | Intel WiFi 6 AX200                     |
 
-[big_sur_ryzentosh](https://i.postimg.cc/wTMSL5rS/big-sur-ryzentosh.png)(https://postimg.cc/svF6RWsc)
+[![big_sur_ryzentosh](https://i.postimg.cc/wTMSL5rS/big-sur-ryzentosh.png)](https://postimg.cc/svF6RWsc)
 
 ## Patches, Drivers & Kexts
 
