@@ -44,7 +44,7 @@
 
 ## Currently known problems and solutions:
 
-* Keyboard Hot Keys +/- volume over DisplayPort doesn't work
+* <strike>Keyboard Hot Keys +/- volume over DisplayPort doesn't work</strike> [Monitor Control](https://github.com/MonitorControl/MonitorControl)
 * DRM doesn't work
 * Send files with Airdrop doesn't work either
 * Mic from front/back panel
