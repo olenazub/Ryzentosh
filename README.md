@@ -1,6 +1,6 @@
 # AMD Ryzen Hackintosh
 
-**MacOS version**:  11.2
+**MacOS version**: Big Sur 11.2
 **OpenCore version**: 0.6.6
 
 **02/02/2021**
