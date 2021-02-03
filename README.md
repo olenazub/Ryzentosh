@@ -3,17 +3,13 @@
 **MacOS version**: Big Sur 11.2
 **OpenCore version**: 0.6.6
 
-**02/02/2021**
-
-* Updated to OpenCore 0.6.6
+### 02/02/2021 - Updated to OpenCore 0.6.6
 * Updated Kexts:
-
-* AppleALC
-* Lilu
-* VirtualSMC
-* WhateverGreen
-
-* Importante: With OC 0.6.6, Bootstrap.efi has been replaced with LauncherOption. More infos about this change here: (https://dortania.github.io/OpenCore-Post-Install/multiboot/bootstrap.html#prerequisites)
+  * AppleALC
+  * Lilu
+  * VirtualSMC
+  * WhateverGreen
+  * Importante: With OC 0.6.6, Bootstrap.efi has been replaced with LauncherOption. More infos about this change here: (https://dortania.github.io/OpenCore-Post-Install/multiboot/bootstrap.html#prerequisites)
 
 * If you are going to use this EFI, please change the SMBIOS data. 
 * I have no responsibility for any problems that may occur with your setup.
